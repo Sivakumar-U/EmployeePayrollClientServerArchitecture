@@ -36,18 +36,6 @@
       "_note": "",
       "_picture": "../assets/profile-images/Ellipse -1.png",
       "id": 3
-    },
-    {
-      "_name": "SIVAKUMAR U",
-      "_picture": "../assets/profile-images/Ellipse -3.png",
-      "_gender": "male",
-      "_department": [
-        "Finance"
-      ],
-      "_salary": "449700",
-      "_note": "Hi siva...",
-      "_startDate": "19 nov 2020",
-      "id": 4
     }
   ]
 }
